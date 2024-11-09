@@ -22,7 +22,7 @@ document.querySelector('.check').addEventListener('click', function() {
     
     // When there is no input
     if (!guess) {
-        displayMegitssage('⛔ Invalid Number!');
+        displayMessage('⛔ Invalid Number!');
 
     // When player wins
     } else if (guess === secretNumber) {
