@@ -8,7 +8,6 @@ while (!maxNumber) {
 let score = maxNumber;
 let secretNumber = Math.trunc(Math.random() * maxNumber) + 1;
 let highscore = 0;
-console.log(secretNumber);
 
 document.querySelector('.max-number').textContent = maxNumber;
 document.querySelector('.score').textContent = score;
