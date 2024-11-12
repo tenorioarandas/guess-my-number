@@ -19,6 +19,7 @@ Neste projeto, você tentará adivinhar um número gerado aleatoriamente pelo si
 2. Tente adivinhar o número secreto inserindo suas tentativas.
 3. Receba dicas após cada tentativa.
 4. Continue até acertar o número secreto e veja quantas tentativas foram necessárias!
+   <<<<<<< HEAD
 
 ## 🧑‍💻 Tecnologias Utilizadas
 
