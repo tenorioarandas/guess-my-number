@@ -22,6 +22,6 @@ Neste projeto, você tentará adivinhar um número gerado aleatoriamente pelo si
 
 ## 🧑‍💻 Tecnologias Utilizadas
 
-- Linguagem de programação (Python/JavaScript/etc.)
-- Estrutura de controle e loops
-- Funções para geração de números aleatórios
+- **HTML5**
+- **CSS3**
+- **JavaScript**
