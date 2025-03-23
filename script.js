@@ -42,7 +42,7 @@ document.querySelector('.check').addEventListener('click', function () {
       document.querySelector('.score').textContent = 0;
 
       // When the player lose
-      document.querySelector('body').style.backgroundColor = '#de0a26';
+      document.querySelector('body').style.backgroundColor = '#cb4a38';
     }
   }
 });
